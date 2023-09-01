@@ -25,7 +25,7 @@ Aquí hay algunos proyectos que he estado trabajando recientemente:
 
 - 🌟 [Manejo de DOM](https://github.com/Lobonjulian/Manipulacion-del-Dom) - creacion de aplicaciones mediantes el DOM.
 - 🌟 [Java](https://github.com/Lobonjulian/Conversor) - Muestro algunas destraza en java...
-- 🌟 [Python]() - En Breve ...
+- 🌟 [Python](https://github.com/Lobonjulian/Python) 
 
 
 No dudes en explorar el resto de mis repositorios para ver más proyectos interesantes.
